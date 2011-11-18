@@ -1,0 +1,16 @@
+-source
+1.6
+-target
+1.6
+-classpath
+C:\Users\gandos\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\gandos\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\gandos\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\gandos\.m2\repository\log4j\log4j\1.2.14\log4j-1.2.14.jar;C:\Users\gandos\.m2\repository\org\aspectj\aspectjrt\1.6.7\aspectjrt-1.6.7.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-aop\3.0.2.RELEASE\spring-aop-3.0.2.RELEASE.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-asm\3.0.2.RELEASE\spring-asm-3.0.2.RELEASE.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-beans\3.0.2.RELEASE\spring-beans-3.0.2.RELEASE.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-context\3.0.2.RELEASE\spring-context-3.0.2.RELEASE.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-core\3.0.2.RELEASE\spring-core-3.0.2.RELEASE.jar;C:\Users\gandos\.m2\repository\org\springframework\spring-expression\3.0.2.RELEASE\spring-expression-3.0.2.RELEASE.jar;D:\artikel\20111118\sample_aop\target\classes
+-d
+D:\artikel\20111118\sample_aop\target\classes
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\CounterImpl.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\CalculatorPointcut.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\CounterIntroduction.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\LoggerAspect.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\App.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\Counter.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\CalculatorImpl.java
+D:\artikel\20111118\sample_aop\src\main\java\id\web\gandos\Calculator.java
